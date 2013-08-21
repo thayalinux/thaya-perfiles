@@ -1,0 +1,4 @@
+desktop-base xorg xinit xserver-xorg-core xserver-xorg-video-all xserver-xorg-input-all \
+cups openssh-client alsa-utils alsa-base dosfstools ntfsprogs mtools ntfs-3g hdparm \
+dialog mesa-utils acpi acpi-support hibernate
+

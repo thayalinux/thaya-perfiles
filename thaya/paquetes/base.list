@@ -1,0 +1,7 @@
+dpkg locales keyboard-configuration netbase apt apt-utils ucf \
+base-files lsb-base lsb-release vim-tiny vim-common base-passwd  bash  \
+bsdutils coreutils dash debconf debconf-i18n debian-archive-keyring debianutils \
+diffutils e2fslibs e2fsprogs findutils gcc-4.4-base gnupg gpgv grep gzip hostname \
+insserv initscripts less libacl1 libattr1 libblkid1 libbz2-1.0 libc-bin libcomerr2 \
+libgcc1 liblocale-gettext-perl libncurses5 libpam-modules libpam-r makedev \
+grub2
